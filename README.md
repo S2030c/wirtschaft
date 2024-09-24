@@ -1,0 +1,1 @@
+Blogtemplate for Blogging
