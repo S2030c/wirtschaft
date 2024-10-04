@@ -1,5 +1,5 @@
 ---  
-title: Mikroökonomie und Betriebswirtschaftslehre: Eine eng verzahnte Beziehung
+title: Mikroökonomie und Betriebswirtschaftslehre – Eine eng verzahnte Beziehung
 ---
 Mikroökonomie und Betriebswirtschaftslehre sind zwei Disziplinen, die sich auf den ersten Blick ähnlich erscheinen, da sie sich beide mit wirtschaftlichen Entscheidungen beschäftigen. Doch bei genauerer Betrachtung zeigen sich sowohl Gemeinsamkeiten als auch Unterschiede in ihren Forschungsgegenständen und Methoden.
 
