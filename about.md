@@ -11,8 +11,13 @@ Es ist das Fundament unserer modernen Gesellschaft und ein ständiger Gegenstand
 
 Ein tieferes Verständnis der Wirtschaft ist nicht nur für Ökonomen wichtig, sondern **für jeden, der sich für die Welt um sich herum interessiert**.
 
+⠀   
+⠀   
+⠀   
+⠀   
+⠀   
 
-### Kontaktiere mich
+### Kontakt
 
 [Kontaktdaten in Github](https://github.com/S2030c)
 
