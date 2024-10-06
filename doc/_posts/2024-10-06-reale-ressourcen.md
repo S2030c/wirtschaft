@@ -1,5 +1,5 @@
 ---  
-**title: Reale Ressourcen – Die Lebensadern unserer Gesellschaft**
+title: Reale Ressourcen – Die Lebensadern unserer Gesellschaft
 ---
 Reale Ressourcen bilden das **Fundament unserer modernen Gesellschaft**. Sie sind die **materiellen Güter**, die wir zur Produktion von Waren und Dienstleistungen benötigen. Von den **Rohstoffen**, die in unseren elektronischen Geräten stecken, über die **Energie**, die unsere Häuser beheizt, bis hin zu den **Nahrungsmitteln**, die wir täglich zu uns nehmen – reale **Ressourcen sind allgegenwärtig** und unverzichtbar.
 
